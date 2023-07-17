@@ -1,0 +1,46 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v7.0": []
+  },
+  "packageFolders": {
+    "/home/angera-silas/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/angera-silas/Projects/visual_basic/visual_basic.vbproj",
+      "projectName": "visual_basic",
+      "projectPath": "/home/angera-silas/Projects/visual_basic/visual_basic.vbproj",
+      "packagesPath": "/home/angera-silas/.nuget/packages/",
+      "outputPath": "/home/angera-silas/Projects/visual_basic/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/angera-silas/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net70"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net70": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net70": {}
+    }
+  }
+}
